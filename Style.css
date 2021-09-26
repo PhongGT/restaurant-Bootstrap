@@ -1,0 +1,54 @@
+.width-80{
+    width: 80%;
+    
+}
+.nav-link:hover{
+    color: #ff4757 !important ;
+    cursor: pointer;
+}
+.nav-link{
+  color: #ff6b81 !important;
+  /* font-size: 1.25rem; */
+  font-weight: bold;
+}
+.bg-gray{
+  background-color: #f1f2f6;
+}
+.bg-pink{
+  background-color: #ff6b81;
+}
+.color-white{
+  color: #ffff
+  ;
+}
+.img-me{
+  width: 50%;
+  height: 40%;
+}
+.text-me
+{
+  font-size: 1rem !important;
+}
+.col-md-me {
+  flex: 0 0 auto;
+  width: 3%;
+}
+.bg-search{
+  background-image: url('./IMG/Bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+.btn-color:hover{
+  background-color: #ff4757;
+  cursor: pointer;
+}
+.btn-color{
+  background-color: #ff6b81;
+  color: white;
+}
+.img-food{
+  width: 90%;
+ 
+}
